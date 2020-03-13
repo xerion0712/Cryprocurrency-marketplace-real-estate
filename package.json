@@ -1,0 +1,21 @@
+{
+  "name": "realty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "cd eth-contracts && truffle test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.2",
+    "solc-js": "^0.5.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
