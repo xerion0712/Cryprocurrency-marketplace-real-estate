@@ -10,7 +10,7 @@ A decentralized platform representing real estate as **ERC721 NFTs** with **ZK-S
 ### Tech Stack  
 - **Smart Contracts**: Solidity (Truffle), OpenZeppelin ERC721.  
 - **ZK-SNARKs**: ZoKrates for proof generation/verification.  
-- **Tools**: Docker, Infura, Remix IDE.  
+- **Tools**: Docker,  Infura, Remix IDE.  
 
 ### Quick Start  
 1. Clone repo → `npm install`  
